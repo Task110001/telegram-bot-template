@@ -1,6 +1,6 @@
 @echo off
 
-set TOKEN=5717840982:AAFqS9SQX-PF7xeclpAW489b_LwOkUG_rc8
+set TOKEN=your token
 
 python main.py
 
